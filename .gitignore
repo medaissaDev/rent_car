@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+web-build/
+web/.next/
+web/out/
+.env
+**/.env
+**/.env.local
+server/uploads/
+.DS_Store
